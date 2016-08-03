@@ -8,7 +8,7 @@ Jogo criado em Python com o intuito de ampliar e testar conhecimento adquirido n
 
 >Obs.: 
 > * Para abrir o jogo, baixe o pacote e execute o arquivo 'TicTacToe.exe' contido na pasta 'executavel'.
-> * Para rodar o código diretamente comente ou delete a função 'cls()' em todo o código, para comentar utilize '#'.
+> * Para rodar o código diretamente, comente ou delete a função 'cls()' em todo o código, para comentar utilize '#'.
 > <br/>Ex: #cls()
 
 

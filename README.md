@@ -4,10 +4,15 @@ Jogo da velha(Tic Tac Toe) para 2 jogadores.
 
 Jogo criado em Python com o intuito de ampliar e testar conhecimento adquirido no curso "Complete Python Bootcamp - Milestone 1".
 
-Obs.: Para rodar o código diretamente comente ou delete a função 'cls()' em todo o código, para comentar utilize '#'.
-<pre>
-Ex: #cls()
-</pre>
+
+
+>Obs.: 
+> * Para abrir o jogo, baixe o pacote e execute o arquivo 'TicTacToe.exe' contido na pasta 'executavel'.
+> * Para rodar o código diretamente comente ou delete a função 'cls()' em todo o código, para comentar utilize '#'.
+> <br/>Ex: #cls()
+
+
+
 
 
 <img src="https://github.com/willsouto/TicTacToeW/blob/master/img/TicTacToe1.jpg"></img>

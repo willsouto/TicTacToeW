@@ -17,7 +17,7 @@ Jogo criado em Python com o intuito de ampliar e testar conhecimento adquirido n
 
 <img src="https://github.com/willsouto/TicTacToeW/blob/master/img/TicTacToe1.jpg"></img>
 <img src="https://github.com/willsouto/TicTacToeW/blob/master/img/TicTacToe2.jpg"></img>
-<img src="https://github.com/willsouto/TicTacToeW/blob/master/img/TicTacToe3.jpg"></img>
+<img src="https://github.com/willsouto/TicTacToeW/blob/master/img/TicTacToeS.jpg"></img>
 
 
 <pre>
